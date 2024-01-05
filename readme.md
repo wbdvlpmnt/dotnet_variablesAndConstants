@@ -15,7 +15,8 @@
 - run `dotnet build`
 - run `dotnet run`
 
-  <img width="888" alt="image" src="https://github.com/wbdvlpmnt/HelloWorld/assets/139825457/1581eb76-c8e3-468b-86ab-53f5949a3548">
+ ![image](https://github.com/wbdvlpmnt/variablesAndConstants/assets/139825457/a579f92f-8297-4274-89a4-674d603d9fe1)
+
 
 ### Useful Commands:
 
