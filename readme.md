@@ -6,6 +6,8 @@
 - Use the shortcut `cw` and then auto complete for a Console.Writeline
 - Use `var` keyword to allow c# to decide the variable type for you without having to explicitly specify.
 - You can `ctrl` or `apple` click a variable type to dive into the available methods and get some documentation.
+- Use the format strings to see what we can store in a variable
+- Use constants for handling constants, we cannot reassign a `const`
 
 ### To run this project:
 
